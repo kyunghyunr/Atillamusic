@@ -13,7 +13,8 @@ p {
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 19px;
+  font-size: 25px;
+  font-weight: bold;
   color: #ffffff;
   overflow-x: hidden;
   background: #25332e;
@@ -46,10 +47,10 @@ footer a:link, footer a:visited {
   display: block;
   color: black;
   background: white;
-  padding: 10px 20px;
-  margin-bottom: 18px;
+  padding: 0px 20px;
+  margin-bottom: 0;
   width: 95px;
-  margin-right: 0;
+  margin-right: 0px;
   margin-left: auto;
   text-align: center;
 }
@@ -61,6 +62,7 @@ footer a:link, footer a:visited {
 
 .tm-nav {
   margin: 30px;
+  margin-top: 13px;
   text-transform: uppercase;
 }
 
@@ -71,7 +73,7 @@ footer a:link, footer a:visited {
 .tm-nav-link:link,
 .tm-nav-link:visited {
   color: black;
-  background-color: white;
+  background-color: none;
   padding: 10px 40px;
   display: block;
   margin-bottom: 6px;
@@ -87,6 +89,10 @@ footer a:link, footer a:visited {
 
 .tm-bg-dark {
   background: rgba(0, 0, 0, 0.7);
+}
+
+.tm-bg-none {
+  background: rgba(0, 0, 0, 0);
 }
 
 .tm-site-header-box {

@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="86" height="86">
+
+<g transform="matrix(0.38105875 0 0 0.38105875 0.0013344267 -0)">
+	<g>
+        <path d="M225.68 112.847C 225.68 175.171 175.165 225.686 112.836 225.686C 50.522 225.687 0 175.171 0 112.847C 0 50.525 50.522 0 112.836 0C 175.165 0 225.68 50.525 225.68 112.847z" stroke="none" fill="#000000" fill-rule="nonzero" />
+        <path d="M151.792 112.847C 151.792 134.358 134.353 151.805 112.836 151.805C 91.321 151.805 73.881 134.359 73.881 112.847C 73.881 91.33 91.321 73.891 112.836 73.891C 134.353 73.891 151.792 91.331 151.792 112.847z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+        <path d="M116.866 112.847C 116.866 115.074 115.063 116.879 112.836 116.879C 110.617 116.879 108.807 115.074 108.807 112.847C 108.807 110.619 110.617 108.816 112.836 108.816C 115.063 108.816 116.866 110.62 116.866 112.847z" stroke="none" fill="#000000" fill-rule="nonzero" />
+        <path d="M20.097 66.216C 30.92 44.729 48.992 27.523 71.101 17.801" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M207.882 154.579C 197.43 178.35 178.323 197.456 154.547 207.908" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M26.954 65.298C 36.748 47.633 51.837 33.313 70.072 24.469" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M201.246 155.543C 191.621 175.444 175.464 191.601 155.563 201.239" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M31.278 68.092C 40.793 50.792 55.653 36.846 73.627 28.478" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M197.293 151.87C 188.137 171.654 172.24 187.674 152.548 196.98" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M194.591 145.045C 187.004 164.302 172.808 180.232 154.794 190.045" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M34.828 72.416C 43.183 56.334 56.357 43.166 72.436 34.821" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M188.86 145.892C 181.194 163.508 167.578 177.946 150.548 186.659" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M40.22 72.872C 48.523 57.822 61.372 45.631 76.909 38.142" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M42.851 79.472C 49.63 65.272 60.61 53.462 74.175 45.638" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M176.435 145.879C 170.255 157.757 160.844 167.682 149.37 174.5" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M50.691 77.164C 57.516 65.305 67.636 55.582 79.807 49.249" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M169.121 146.979C 162.915 157.183 154.019 165.565 143.417 171.139" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M57.354 77.446C 63.886 67.225 73.172 58.925 84.158 53.598" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M165.924 141.229C 160.968 150.476 153.661 158.284 144.805 163.852" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M62.042 80.556C 67.532 71.937 75.145 64.813 84.151 59.925" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M162.674 136.573C 157.986 146.412 150.464 154.644 141.171 160.219" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M64.289 86.57C 69.394 77.163 77.15 69.403 86.554 64.298" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M156.897 135.563C 152.56 143.963 145.892 150.964 137.745 155.705" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M69.974 87.932C 75.203 78.958 83.174 71.775 92.734 67.526" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M154.065 129.807C 149.955 139.764 142.356 147.911 132.782 152.711" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M73.236 92.376C 77.476 84.19 84.177 77.486 92.363 73.246" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+        <path d="M185.226 140.644C 179.144 156.488 168.007 169.819 153.798 178.674" stroke="#FFFFFF" stroke-width="2.5007" stroke-linecap="square" fill="none" />
+	</g>
+</g>
+</svg>

@@ -111,7 +111,7 @@ $.fn.backgroundCycle = function(options) {
       left: marginLeft,
       top: marginTop,
       right: marginRight,
-      bottom: marginBottom
+      bottom: marginBottom,
     });
 
     this.append(image);
